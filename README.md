@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0011Kit
 - 👀 I’m interested in GUI 
-- 🌱 I’m currently learning php, c#, Css, JavaScript, Real Time System
+- 🌱 I’m currently learning php, c#, Css, JavaScript, Real Time System, HTML
 - 💞️ I’m looking to collaborate on php, c#, Css, JavaScript, Real Time System
 - 📫 How to reach me (Nah)
 
